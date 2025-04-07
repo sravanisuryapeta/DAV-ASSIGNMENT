@@ -1,7 +1,9 @@
 # DAV-ASSIGNMENT 166
 Heart Disease
+
 Heart Disease Data for Health Research
-About Dataset
+
+About Dataset:
 This dataset contains various health indicators and risk factors related to heart disease. Parameters such as age, gender, blood pressure, cholesterol levels, smoking habits, and exercise patterns have been collected to analyze heart disease risk and contribute to health research. The dataset can be used by healthcare professionals, researchers, and data analysts to examine trends related to heart disease, identify risk factors, and perform various health-related analyses.
 
 Columns ;
